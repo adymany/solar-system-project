@@ -1,8 +1,7 @@
 # solar-system-project
 Interactive 3D Solar System Simulation
 Welcome to the Interactive 3D Solar System, a web-based simulation that brings our cosmic neighborhood to life right in your browser. Explore the planets, their moons, and other famous celestial artifacts in a fully interactive 3D environment. This project is built with pure JavaScript and the powerful Three.js library for 3D rendering.
- LIVE AT -Enhanced UI Solar System
-(Replace the link above with your actual Netlify deployment URL after hosting!)
+ LIVE AT -https://superlative-platypus-7bdc24.netlify.app/
 Features
 * Real-Time 3D Visualization: A beautifully rendered 3D scene of our solar system.
 * Complete Orbital Mechanics: All planets and major moons orbit realistically. The simulation speed is adjustable.
